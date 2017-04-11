@@ -1,0 +1,3 @@
+[submodule "public/edugargar.github.io"]
+	path = public/edugargar.github.io
+	url = https://github.com/edugargar/edugargar.github.io.git
