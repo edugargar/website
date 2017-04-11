@@ -1,6 +1,6 @@
-baseurl = "https://example.com"
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+baseurl = "https://edugargar.github.io"
+title = "The ED Factor"
+copyright = "&copy; 2017 Eduardo García Garzón"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,12 +19,12 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Eduardo García Garzón"
+  role = "PhD Candidate at Lab 17"
+  organization = "Universidad Autonoma de Madrid"
   organization_url = ""
   avatar = "portrait.jpg"
-  email = "test@example.org"
+  email = "eduardo.garciag@euam.es"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
