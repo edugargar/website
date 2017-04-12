@@ -12,31 +12,35 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Psychometrics",
+    "Factor Analysis",
+    "High Dimensional Data Reduction",
+    "Bayesian Estimation Methods",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Clinincal and Health Psychology"
+  institution = "Universidad Autonoma de Madrid"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Methodology For Social and Health Sciences"
+  institution = "Universidad Autonoma de Madrid"
+  year = 2015
+
+[[education.courses]]
+  course = "BSc in Psychology"
+  institution = "Universidad de Salamanca"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eduardo Garcia-Garzon is a PhD Candidate in Lab 17 (Psychometrics Chair) in Univeridad Autonoma de Madrid. He is interested on factor analysis and the application of psychometric models to high dimensional data. His latest projects include the exploration of new exploratory bi-factor analysis algorithms and the application of Bayesian estimation methods to these problems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He is also a collaborator at the [Policy Research Group](http://www.psychol.cam.ac.uk/pol-res-group/people) - University of Cambridge (United Kingdom), at [Innovagogía Research Group](https://innovagogia.jimdo.com/miembros/espa%C3%B1a-continuaci%C3%B3n/) - the Universidad Pablo Olavide (Seville, Spain) and alumni of the [Junior Researcher Programme](http://jrp.pscholars.org/)
+
+He is open to new academic collaborations, so feel free to send an email with your proposal! 
+
