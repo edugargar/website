@@ -38,9 +38,11 @@ weight = 1
 
 # Biography
 
-I currently am a PhD Candidate in Lab 17 (Psychometrics Chair) at Univeridad Autonoma de Madrid. I am interested on factor analysis and the application of psychometric models to high dimensional data. My latest projects include the development of new exploratory bi-factor analysis algorithms and the application of Bayesian estimation methods to these problems. 
+Welcome to my personal website!
+
+I am a PhD Candidate in Lab 17 [Psychometrics Chair](http://www.iic.uam.es/catedras/map/equipo-de-trabajo) at Univeridad Autonoma de Madrid. I am interested on factor analysis and the application of psychometric models to high dimensional data. My latest projects include the development of new exploratory bi-factor analysis algorithms and the application of Bayesian estimation methods to these problems. 
 
 I currently collaborate with several research groups, such as the [Policy Research Group](http://www.psychol.cam.ac.uk/pol-res-group/people) - University of Cambridge (United Kingdom), at [Innovagogía Research Group](https://innovagogia.jimdo.com/miembros/espa%C3%B1a-continuaci%C3%B3n/) - the Universidad Pablo Olavide (Seville, Spain). Produdly alumni of the [Junior Researcher Programme](http://jrp.pscholars.org/)!
 
-I am open to new academic & non-academic projects, so feel free to contact me  with your proposal! 
+Here you can find information my latest updates about my publications, project, code and more. I am open to new academic & non-academic projects, so feel free to contact me  with your proposal! 
 

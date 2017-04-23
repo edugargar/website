@@ -14,14 +14,9 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+For the 2017-2018 academic course, I will be a teaching assistant in the following courses at Psychology Degree and Master in Methodology for Social Sciences and  (Universidad Autónoma de Madrid):
 
-I am a teaching instructor for the following courses at University X:
+- Data Analysis I
+- Meta-Analysis
+- Item Response Theory Models
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
