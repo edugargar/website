@@ -6,13 +6,13 @@ date = "2016-04-27"
 title = "Bayesian Factor Analysis"
 
 # Project summary to display on homepage.
-summary = "Bayesian estimation applied to the development of new psychometric methods"
+summary = "Bayesian estimation atechniques applied to the development of new psychometric methods"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "analytics.jpg"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
+# Example: `tags = ["Bayesian Factor Analysis", "Bayesian Factor Analysis"]`
 tags = ["Bayesian Factor Analysis"]
 
 # Optional external URL for project (replaces project detail page).
